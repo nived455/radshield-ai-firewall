@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+foolbox
+PyWavelets
+pillow
+streamlit
